@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/myshell.dir/myshell_autogen/mocs_compilation.cpp.o CMakeFiles/myshell.dir/main.cpp.o -o myshell  -Wl,-rpath,/opt/Qt6.4.0/6.4.0/gcc_64/lib: /opt/Qt6.4.0/6.4.0/gcc_64/lib/libQt6Core.so.6.4.0 
